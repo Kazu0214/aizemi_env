@@ -2,11 +2,19 @@
 
 ## 使用方法
 
-1. vscode 起動
-2. 左下のリモートウィンドウを起動をクリック
-3. Open Folder in Container をクリック
-4. clone してきたこのフォルダを選択
-5. ターミナルを起動
-6. Ubuntu の仮想環境が完成。
+### setup
+
+1. git clone https://github.com/Kazu0214/aizemi_env.git
+2. vscode 起動
+3. 左下のリモートウィンドウを起動をクリック
+4. Open Folder in Container をクリック
+5. clone してきたこのフォルダを選択
+6. ターミナルを起動
+7. Ubuntu の仮想環境が完成。
+
+### 2 回目行こう
+
+1. 左下のリモートウィンドウを起動をクリック
+2. Reopen in Container
 
 ## 必要なライブラリや model を各自でダウンロードしてください。
